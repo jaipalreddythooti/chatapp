@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+.my {
+    background-image: url('');
+    height: 700px;
+    margin-top: 0 !important
+}
+
+.main {
+    width: 1300px;
+    height: 600px;
+    margin-left: 100px;
+    background-color: rgb(250, 239, 250);
+    margin-top: 50px;
+    position: relative;
+    background-image: url();
+}
+
+.main-10 {
+    width: 250px;
+    background-size: cover;
+    height: 400px;
+    position: absolute;
+    background-position: right;
+    background: linear-gradient(45deg, #3e32a8, #e310c7);
+    border-bottom-right-radius: 140px;
+    border-bottom-left-radius: 100px;
+}
+
+.main-11 {
+    width: 0px;
+    background-size: cover;
+    height: 400px;
+    position: absolute;
+    background: linear-gradient(45deg, #cecdd1, #e310c7);
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 80px;
+}
+
+.container {
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 1200px;
+    float: right;
+    position: absolute;
+    background-color: ;
+    background-image: url'';
+}
+
+.cht-box {
+    width: 25%;
+    background-color: whitesmoke;
+    height: 400px;
+    border: 5px solid white;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    display: block;
+    margin-left: 200px;
+}
+
+.header {
+    background: linear-gradient(45deg, #3e32a8, #e310c7);
+    height: 80px;
+    padding: 30px 0 0 0;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: block;
+    justify-content: ;
+    align-items: center;
+}
+
+.header::before {
+    content: ' ';
+    margin-top: -30px;
+    margin-left: 60px;
+    width: 150px;
+    height: 20px;
+    position: absolute;
+    background-color: white;
+    border-radius: 30px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.img-man {
+    width: 40px;
+}
+
+.chevr {
+    margin-left: 20px;
+}
+
+.rightpi {
+    margin-left: 40px;
+}
+
+.receive-text {
+    width: 60%;
+    background-color: rgb(219, 217, 219);
+    border-radius: 10px;
+    margin-left: 9px;
+    margin-bottom: 3px;
+    font-size: x-small;
+    font-family: 'rubik';
+}
+
+.receive-text1 {
+    width: 60%;
+    background-color: rgb(219, 217, 219);
+    border-radius: 10px;
+    margin-left: 9px;
+    margin-bottom: 3px;
+    font-size: x-small;
+    font-family: 'rubik';
+}
+
+.receive-text2 {
+    width: 60%;
+    background-color: rgb(219, 217, 219);
+    border-radius: 10px;
+    margin-left: 9px;
+    margin-bottom: 3px;
+    font-size: x-small;
+    font-family: 'rubik';
+}
+
+.receive-text3 {
+    width: 60%;
+    background: linear-gradient(45deg, #e310c7, #3e32a8);
+    border-radius: 6px;
+    margin-left: 9px;
+    border-bottom-left-radius: 0px;
+    margin-bottom: 3px;
+    float: left;
+    padding: 1px 1px 1px 1px;
+    font-size: xx-small;
+    font-family: 'rubik';
+}
+
+.receive-text4 {
+    width: 60%;
+    background: linear-gradient(45deg, #e310c7, #3e32a8);
+    border-radius: 6px;
+    margin-left: 9px;
+    border-bottom-left-radius: 0px;
+    margin-bottom: px;
+    float: left;
+    padding: 1px 1px 1px 1px;
+    font-size: xx-small;
+    font-family: 'rubik';
+}
+
+.inline1 h6 {
+    font-size: xx-small;
+    background-color: white;
+    font-family: 'rubik';
+}
+
+.send-msg1 {
+    width: 60%;
+    background-color: rgb(180, 179, 180);
+    border-radius: 10px;
+    border-bottom-left-radius: ;
+    margin-right: 9px;
+    margin-left: 36%;
+    float: right;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: x-small;
+    font-family: 'rubik';
+}
+
+.send-msg2 {
+    width: 60%;
+    background-color: rgb(180, 179, 180);
+    border-radius: 10px;
+    margin-right: 9px;
+    margin-left: 34%;
+    margin-bottom: 3px;
+    float: right;
+    font-size: x-small;
+    font-family: 'rubik';
+}
+
+.send-msg {
+    margin-left: 0.5px;
+    margin-bottom: px;
+    font-family: 'rubik';
+}
+
+.send-msg img {
+    width: 40px;
+    border-radius: 10px;
+    float: right;
+    margin-left: 1px;
+    margin-right: 1px;
+    font-family: 'rubik';
+}
+
+.input1-container {
+    width: 250px;
+    height: 20px;
+    position: abse;
+    background-color: gen;
+    border: 30px 30px;
+    font-size: small;
+    font-family: 'rubik';
+}
+
+.input12 i {
+    position: abste;
+}
+
+.content {
+    margin-top: 100px;
+    width: 35%;
+    margin-left: 200px;
+    font-family: 'rubik';
+}
+
+.input12 {
+    display: inline-block;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@media screen and (min-width:375px) and (max-width:1445px) {
+    .main {
+        width: 100%;
+        height: 900px;
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: rgb(250, 239, 250);
+        position: relative;
+    }
+    .main10 {
+        width: 20% !important;
+        background-size: cover;
+        height: 600px;
+        position: absolute;
+        background-position: center;
+        background: linear-gradient(45deg, #3e32a8, #e310c7);
+        border-bottom-right-radius: 100px;
+        border-bottom-left-radius: 100px;
+    }
+    .container {
+        width: 375px;
+        margin-top: 50px;
+        margin-left: px;
+        float: right;
+        position: absolute;
+    }
+    .content h1 {
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        text-align: center;
+        float: left;
+    }
+    .cht-box {
+        width: 100% !important;
+        background-color: whitesmoke;
+        height: 400px;
+        margin-right: 1000px !important;
+        border: 5px solid white;
+        border-bottom-left-radius: 40px;
+        border-bottom-right-radius: 40px;
+        border-top-left-radius: 40px;
+        border-top-right-radius: 40px;
+        display: block;
+    }
+    .content {
+        width: 100%;
+        margin-left: 10px !important;
+        font-family: 'rubik';
+    }
+}
